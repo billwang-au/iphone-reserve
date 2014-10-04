@@ -6,6 +6,10 @@ https://reserve.cdn-apple.com/GB/en_GB/reserve/iPhone/stores.json
 
 https://reserve.cdn-apple.com/AU/en_AU/reserve/iPhone/stores.json
 
+https://reserve.cdn-apple.com/JP/ja_JP/reserve/iPhone/stores.json
+
+https://reserve.cdn-apple.com/HK/zh_HK/reserve/iPhone/stores.json
+
 # availability url
 
 https://reserve.cdn-apple.com/CA/en_CA/reserve/iPhone/availability.json
@@ -13,3 +17,7 @@ https://reserve.cdn-apple.com/CA/en_CA/reserve/iPhone/availability.json
 https://reserve.cdn-apple.com/GB/en_GB/reserve/iPhone/availability.json
 
 https://reserve.cdn-apple.com/AU/en_AU/reserve/iPhone/availability.json
+
+https://reserve.cdn-apple.com/JP/ja_JP/reserve/iPhone/availability.json
+
+https://reserve.cdn-apple.com/HK/zh_HK/reserve/iPhone/availability.json
